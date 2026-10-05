@@ -5,7 +5,7 @@ Estudiante de Licenciatura en Redes Informáticas en la Universidad Tecnológica
 Apasionado por la programación y el desarrollo de soluciones técnicas.
 
 ## Tecnologías
-- Lenguajes: **C** y C++
+- Lenguajes: **C** y **C++**
 
 ## Proyectos destacados
 - [Sistema de Gestión de Estudiantes](https://github.com/carlosmartinez-cm/sistema-gestion-estudiantes) — Programa en C para administrar información de estudiantes.
